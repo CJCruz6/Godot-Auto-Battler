@@ -1,3 +1,6 @@
+This is a practice for game dev from Godot Tutorials from GodotGameLab: https://youtube.com/@godotgamelab?si=cstXCZbgc8Dr9GEu
+
+README from tutorial:
 # Godot Singleplayer Autobattler Course project
 A singleplayer autobattler tutorial project made in Godot 4.
 
